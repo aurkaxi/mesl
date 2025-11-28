@@ -1,3 +1,5 @@
+presentation for "operators and data types in c" session.
+
 # Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
 To start the slide show:
